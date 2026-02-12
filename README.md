@@ -2,7 +2,7 @@
 
 Création de formulaire de connexion en PHP avec une base MySQL, via PHPmyAdmin (XAMP).
 Utilisation de PHP.
-
+Il n'y a pas de mot de passe pour se connecter à PHPmyAdmin
 
 ## Comment ca marche
 
